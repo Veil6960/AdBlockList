@@ -1,2 +1,2 @@
 leetcode.com/api/is_china_ip/
-bilibili.com##.btn-ad, .fixed-card
+bilibili.com###placeholder, .trending, .left-loc-entry, .adblock-tips, .btn-ad, .fixed-card, div[class$="is-rcmd"]
